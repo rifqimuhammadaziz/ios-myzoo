@@ -16,6 +16,7 @@
 		37BC63012940AF6B008F20A0 /* MyZooTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37BC63002940AF6B008F20A0 /* MyZooTests.swift */; };
 		37BC630B2940AF6B008F20A0 /* MyZooUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37BC630A2940AF6B008F20A0 /* MyZooUITests.swift */; };
 		37BC630D2940AF6B008F20A0 /* MyZooUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37BC630C2940AF6B008F20A0 /* MyZooUITestsLaunchTests.swift */; };
+		37BC631A294182AD008F20A0 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37BC6319294182AD008F20A0 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		37BC63062940AF6B008F20A0 /* MyZooUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyZooUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		37BC630A2940AF6B008F20A0 /* MyZooUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyZooUITests.swift; sourceTree = "<group>"; };
 		37BC630C2940AF6B008F20A0 /* MyZooUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyZooUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		37BC6319294182AD008F20A0 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				37BC62F22940AF6B008F20A0 /* Assets.xcassets */,
 				37BC62F42940AF6B008F20A0 /* LaunchScreen.storyboard */,
 				37BC62F72940AF6B008F20A0 /* Info.plist */,
+				37BC6319294182AD008F20A0 /* TableViewCell.swift */,
 			);
 			path = MyZoo;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				37BC62EE2940AF69008F20A0 /* ViewController.swift in Sources */,
+				37BC631A294182AD008F20A0 /* TableViewCell.swift in Sources */,
 				37BC62EA2940AF69008F20A0 /* AppDelegate.swift in Sources */,
 				37BC62EC2940AF69008F20A0 /* SceneDelegate.swift in Sources */,
 			);
